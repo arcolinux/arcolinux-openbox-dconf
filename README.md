@@ -1,1 +1,1 @@
-# ArcoLinux-config-dconf for this desktop/iso
+# ArcoLinux-openbox-dconf for this desktop/iso
